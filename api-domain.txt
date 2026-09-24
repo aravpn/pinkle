@@ -1,0 +1,29 @@
+{
+  "cached": false,
+  "domain_list": {
+    "default":[
+      {
+        "url": "https://api.musicbama.com",
+        "timeout": 20000,
+        "type": "api"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/aravpn/blaze/refs/heads/main/api-domain.txt",
+        "timeout": 15000,
+        "type": "backup"
+      }
+    ],
+    "IR": [     
+      {
+        "url": "https://api.musicbama.com",
+        "timeout": 20000,
+        "type": "api"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/aravpn/blaze/refs/heads/main/api-domain.txt",
+        "timeout": 15000,
+        "type": "backup"
+      }
+    ]
+  }
+}
