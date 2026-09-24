@@ -3,24 +3,24 @@
   "domain_list": {
     "default":[
       {
-        "url": "https://api.musicbama.com",
+        "url": "https://pinkle.musicbama.com",
         "timeout": 20000,
         "type": "api"
       },
       {
-        "url": "https://raw.githubusercontent.com/aravpn/blaze/refs/heads/main/api-domain.txt",
+        "url": "https://raw.githubusercontent.com/aravpn/pinkle/refs/heads/main/api-domain.txt",
         "timeout": 15000,
         "type": "backup"
       }
     ],
     "IR": [     
       {
-        "url": "https://api.musicbama.com",
+        "url": "https://pinkle.musicbama.com",
         "timeout": 20000,
         "type": "api"
       },
       {
-        "url": "https://raw.githubusercontent.com/aravpn/blaze/refs/heads/main/api-domain.txt",
+        "url": "https://raw.githubusercontent.com/aravpn/pinkle/refs/heads/main/api-domain.txt",
         "timeout": 15000,
         "type": "backup"
       }
